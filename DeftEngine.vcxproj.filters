@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Data Structures">
+      <UniqueIdentifier>{fcae6d48-40c0-41cd-80e8-c71d08147f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Loading Screen">
+      <UniqueIdentifier>{8f730ef4-a867-459c-9192-6926932e231b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\World">
+      <UniqueIdentifier>{b33cfdc3-030c-48d0-973b-aaaba97a26f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Components">
+      <UniqueIdentifier>{c6752fc5-1eb9-44a3-b3fa-3768d47ef627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ResourceManger">
+      <UniqueIdentifier>{7a3c8da8-9581-4e4f-a194-effd52bf58dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Errors">
+      <UniqueIdentifier>{e8981ec7-292d-4b2c-b097-468438538b6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Loader">
+      <UniqueIdentifier>{649b4020-9b63-40cb-b5ea-c1c47600ee74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FPS Limiter">
+      <UniqueIdentifier>{eac7cabf-508b-4f97-aba0-a04c3f0cb33e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entities">
+      <UniqueIdentifier>{a5b9e8ca-c51b-4ed6-922c-94525dbdf41c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Math">
+      <UniqueIdentifier>{98ab66dc-f310-40ed-b92b-a9541a48d310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Audio">
+      <UniqueIdentifier>{e6ad96b4-b696-4d00-8689-bafcedcaa359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input">
+      <UniqueIdentifier>{30ff379d-8072-4a87-aedb-3e8c2187d09d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\IO">
+      <UniqueIdentifier>{dd65771b-711a-48a2-8e13-924f1424a8a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{0707689c-6148-478a-988d-460bd6fc4fea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI\UI Objects">
+      <UniqueIdentifier>{ea4bff79-0ef7-4702-aca3-b7a7357cc386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Editor">
+      <UniqueIdentifier>{af07d557-744c-4f30-a0c5-bfbb93fd1a90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Message Bus">
+      <UniqueIdentifier>{ee16821b-074c-44ab-847f-6650924c6b57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Asset Loaders">
+      <UniqueIdentifier>{9e4c9004-d929-4f31-8d57-c4385f8ecfe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering">
+      <UniqueIdentifier>{bc7e33eb-8305-450d-bd84-2fa610059aa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering\Camera">
+      <UniqueIdentifier>{a9f63ddb-01f6-4c1a-bec5-51af6fe2401a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering\Shader">
+      <UniqueIdentifier>{c93fbe3d-8bf5-4917-ba29-39824293e70e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering\Sprites">
+      <UniqueIdentifier>{5fa89f30-0329-493d-bddb-03b8e8906ba9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering\Window">
+      <UniqueIdentifier>{93c3d03a-9a86-425e-92bf-c0e2e9412715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering\Shapes">
+      <UniqueIdentifier>{b283ed66-2675-44f0-9d63-10dba91ec7a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering\Sprite Font">
+      <UniqueIdentifier>{1ffca0bc-fd27-463e-83ca-6037273044ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rendering\Shapes\Old Shapes">
+      <UniqueIdentifier>{793e01f6-4e11-45a9-8471-d82b1a9bc264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI\UI Structures">
+      <UniqueIdentifier>{d572b8c9-0aa2-4027-b17d-7f47353748fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Colors">
+      <UniqueIdentifier>{00355499-ca8a-411e-969f-02a554b3fc45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SpriteFont.cpp">
+      <Filter>Source Files\Rendering\Sprite Font</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera2D.cpp">
+      <Filter>Source Files\Rendering\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="picoPNG.cpp">
+      <Filter>Source Files\Asset Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageLoader.cpp">
+      <Filter>Source Files\Asset Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Source Files\Rendering\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="HashString.cpp">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScreen.cpp">
+      <Filter>Source Files\Loading Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldManager.cpp">
+      <Filter>Source Files\World</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files\World</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldChunk.cpp">
+      <Filter>Source Files\World</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityManager.cpp">
+      <Filter>Source Files\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Source Files\ResourceManger</Filter>
+    </ClCompile>
+    <ClCompile Include="FPSLimiter.cpp">
+      <Filter>Source Files\FPS Limiter</Filter>
+    </ClCompile>
+    <ClCompile Include="Loader.cpp">
+      <Filter>Source Files\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="MathFunctions.cpp">
+      <Filter>Source Files\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioSystem.cpp">
+      <Filter>Source Files\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem.cpp">
+      <Filter>Source Files\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="IOSystem.cpp">
+      <Filter>Source Files\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="MainSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UIText.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="UIImage.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="UIButton.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="UIToggle.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files\Rendering\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files\Rendering\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="FatalErrors.cpp">
+      <Filter>Source Files\Errors</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>Source Files\Rendering\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeRenderer.cpp">
+      <Filter>Source Files\Rendering\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteRenderer.cpp">
+      <Filter>Source Files\Rendering\Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="UIWindow.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor.cpp">
+      <Filter>Source Files\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="GameUI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Message.cpp">
+      <Filter>Source Files\Message Bus</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageBus.cpp">
+      <Filter>Source Files\Message Bus</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="LineStrip.cpp">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="UIDropDownMenu.cpp">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClCompile>
+    <ClCompile Include="UISystem.cpp">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClCompile>
+    <ClCompile Include="UIButtonMenu.cpp">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClCompile>
+    <ClCompile Include="UIDropDown.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="UIInputField.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="UISlider.cpp">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SpriteFont.h">
+      <Filter>Source Files\Rendering\Sprite Font</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera2D.h">
+      <Filter>Source Files\Rendering\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="picoPNG.h">
+      <Filter>Source Files\Asset Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageLoader.h">
+      <Filter>Source Files\Asset Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Source Files\Rendering\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex.h">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="HashString.h">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="TextAlignment.h">
+      <Filter>Source Files\Rendering\Sprite Font</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScreen.h">
+      <Filter>Source Files\Loading Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldManager.h">
+      <Filter>Source Files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Source Files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldChunk.h">
+      <Filter>Source Files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Source Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Source Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformComponent.h">
+      <Filter>Source Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityManager.h">
+      <Filter>Source Files\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Source Files\ResourceManger</Filter>
+    </ClInclude>
+    <ClInclude Include="FPSLimiter.h">
+      <Filter>Source Files\FPS Limiter</Filter>
+    </ClInclude>
+    <ClInclude Include="Loader.h">
+      <Filter>Source Files\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Source Files\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentType.h">
+      <Filter>Source Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardComponent.h">
+      <Filter>Source Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationComponent.h">
+      <Filter>Source Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="MathFunctions.h">
+      <Filter>Source Files\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialComponent.h">
+      <Filter>Source Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioSystem.h">
+      <Filter>Source Files\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>Source Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="IOSystem.h">
+      <Filter>Source Files\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="MainSystem.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIText.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="UIImage.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="UIButton.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Source Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="UIToggle.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Shaders.h">
+      <Filter>Source Files\Rendering\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Source Files\Rendering\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Source Files\Rendering\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="RendererDrawMode.h">
+      <Filter>Source Files\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="FatalErrors.h">
+      <Filter>Source Files\Errors</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Source Files\Rendering\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeRenderer.h">
+      <Filter>Source Files\Rendering\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteRenderer.h">
+      <Filter>Source Files\Rendering\Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="GLDrawMode.h">
+      <Filter>Source Files\Rendering\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEvents.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIWindow.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Editor.h">
+      <Filter>Source Files\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="GameUI.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h" />
+    <ClInclude Include="MessageBus.h">
+      <Filter>Source Files\Message Bus</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>Source Files\Message Bus</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>Source Files\Message Bus</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems.h">
+      <Filter>Source Files\Message Bus</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Source Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="LineStrip.h">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Source Files\Rendering\Shapes\Old Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="UIDropDownMenu.h">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="UIObject.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="UIGroup.h">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="UISystem.h">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="UIButtonMenu.h">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="Cursor.h">
+      <Filter>Source Files\UI\UI Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="UIDropDown.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="UIInputField.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="UISlider.h">
+      <Filter>Source Files\UI\UI Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Colors.h">
+      <Filter>Source Files\Colors</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DeftEngine.rc" />
+  </ItemGroup>
+</Project>

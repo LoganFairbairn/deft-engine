@@ -1,0 +1,3 @@
+﻿  Window.cpp
+LINK : warning LNK4068: /MACHINE not specified; defaulting to X86
+  DeftEngine.vcxproj -> D:\1. Work In Progress\DeftEngine\Release\DeftEngine.lib

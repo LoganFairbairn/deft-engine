@@ -1,0 +1,179 @@
+﻿  AudioSystem.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  Camera2D.cpp
+  Editor.cpp
+  GameUI.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Shape.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ShapeRenderer.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  UIDropDown.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  UIDropDownMenu.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  UIImage.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  Circle.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\circle.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  UIButton.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\uibutton.cpp(158): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\uibutton.cpp(159): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  MainSystem.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\mainsystem.cpp(176): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\mainsystem.cpp(185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\1. projects\osrpg\deftengine\mainsystem.cpp(200): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\mainsystem.cpp(203): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\1. projects\osrpg\deftengine\mainsystem.cpp(212): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\1. projects\osrpg\deftengine\mainsystem.cpp(316): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\1. projects\osrpg\deftengine\mainsystem.cpp(359): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  FatalErrors.cpp
+  Entity.cpp
+  EntityManager.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\entitymanager.cpp(28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Grid.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\grid.cpp(11): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+d:\1. projects\osrpg\deftengine\grid.cpp(28): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+d:\1. projects\osrpg\deftengine\grid.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  HashString.cpp
+d:\1. projects\osrpg\deftengine\hashstring.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\1. projects\osrpg\deftengine\linkedlist.h(206): warning C4018: '<': signed/unsigned mismatch
+  d:\1. projects\osrpg\deftengine\linkedlist.h(202): note: while compiling class template member function 'T Deft::LinkedList<T>::GetElementAt(unsigned int)'
+          with
+          [
+              T=std::string
+          ]
+  d:\1. projects\osrpg\deftengine\hashstring.cpp(39): note: see reference to function template instantiation 'T Deft::LinkedList<T>::GetElementAt(unsigned int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  d:\1. projects\osrpg\deftengine\hashstring.h(25): note: see reference to class template instantiation 'Deft::LinkedList<std::string>' being compiled
+  Loader.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  Line.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  LoadingScreen.cpp
+  Generating Code...
+d:\1. projects\osrpg\deftengine\linkedlist.h(197): warning C4715: 'Deft::LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetFirstElement': not all control paths return a value
+d:\1. projects\osrpg\deftengine\linkedlist.h(261): warning C4715: 'Deft::LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::FindElement': not all control paths return a value
+  Compiling...
+  MathFunctions.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Message.cpp
+  LineStrip.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Rectangle.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Renderer.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\renderer.cpp(272): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\renderer.cpp(382): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\renderer.cpp(413): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\renderer.cpp(618): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ResourceManager.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  Shader.cpp
+  ImageLoader.cpp
+  Input.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  InputSystem.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\inputsystem.cpp(43): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  IOSystem.cpp
+d:\1. projects\osrpg\deftengine\iosystem.cpp(21): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\1. projects\osrpg\deftengine\iosystem.cpp(25): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  MessageBus.cpp
+  picoPNG.cpp
+  Sprite.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\sprite.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  SpriteRenderer.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  SpriteFont.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\spritefont.cpp(199): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  FPSLimiter.cpp
+d:\1. projects\osrpg\deftengine\fpslimiter.cpp(43): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+d:\1. projects\osrpg\deftengine\fpslimiter.cpp(62): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\fpslimiter.cpp(63): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  UIInputField.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  UISlider.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  UISystem.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+d:\1. projects\osrpg\deftengine\input.cpp(81): warning C4715: 'Deft::Input::KeyReleased': not all control paths return a value
+d:\1. projects\osrpg\deftengine\resourcemanager.cpp(363): warning C4715: 'Deft::ResourceManager::GetTexture': not all control paths return a value
+d:\1. projects\osrpg\deftengine\resourcemanager.cpp(381): warning C4715: 'Deft::ResourceManager::GetMaterial': not all control paths return a value
+d:\1. projects\osrpg\deftengine\resourcemanager.cpp(399): warning C4715: 'Deft::ResourceManager::GetFont': not all control paths return a value
+d:\1. projects\osrpg\deftengine\resourcemanager.cpp(411): warning C4715: 'Deft::ResourceManager::GetShader': not all control paths return a value
+d:\1. projects\osrpg\deftengine\resourcemanager.cpp(429): warning C4715: 'Deft::ResourceManager::GetShader': not all control paths return a value
+d:\1. projects\osrpg\deftengine\resourcemanager.cpp(447): warning C4715: 'Deft::ResourceManager::GetSound': not all control paths return a value
+d:\1. projects\osrpg\deftengine\resourcemanager.cpp(464): warning C4715: 'Deft::ResourceManager::GetMusic': not all control paths return a value
+  Compiling...
+  UIText.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  UIButtonMenu.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\uibuttonmenu.cpp(73): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\uibuttonmenu.cpp(124): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  UIToggle.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+  UIWindow.cpp
+d:\1. projects\osrpg\deftengine\vector.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\resourcemanager.h(75): warning C4091: 'static ': ignored on left of 'Deft::ResourceManager' when no variable is declared
+d:\1. projects\osrpg\deftengine\uibutton.h(52): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\uiwindow.cpp(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\uiwindow.cpp(118): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+d:\1. projects\osrpg\deftengine\uiwindow.cpp(118): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+d:\1. projects\osrpg\deftengine\uiwindow.cpp(208): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+d:\1. projects\osrpg\deftengine\uiwindow.cpp(209): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  Window.cpp
+  World.cpp
+  WorldChunk.cpp
+  WorldManager.cpp
+  Generating Code...
+LINK : warning LNK4068: /MACHINE not specified; defaulting to X86
+UISlider.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+UIInputField.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+Entity.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+Editor.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  DeftEngine.vcxproj -> D:\1. Projects\OSRPG\Debug\DeftEngine.lib

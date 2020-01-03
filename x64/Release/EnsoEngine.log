@@ -1,0 +1,24 @@
+﻿  Camera2D.cpp
+d:\____projects current\enso engine\ensoengine\Camera2D.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  EnsoEngine.cpp
+EnsoEngine.cpp(1): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Errors.cpp
+Errors.cpp(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  GLSLProgram.cpp
+d:\____projects current\enso engine\ensoengine\GLSLProgram.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  ImageLoader.cpp
+d:\____projects current\enso engine\ensoengine\GLTexture.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  InputManager.cpp
+d:\____projects current\enso engine\ensoengine\InputManager.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  ResourceManager.cpp
+d:\____projects current\enso engine\ensoengine\GLTexture.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Sprite.cpp
+d:\____projects current\enso engine\ensoengine\Sprite.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  SpriteBatch.cpp
+d:\____projects current\enso engine\ensoengine\SpriteBatch.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TextureCache.cpp
+d:\____projects current\enso engine\ensoengine\GLTexture.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Timing.cpp
+Timing.cpp(3): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Window.cpp
+d:\____projects current\enso engine\ensoengine\Window.h(2): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
